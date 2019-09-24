@@ -15,6 +15,10 @@
 ### Objectif de premier sprint
 - Le Rasp se connecte à un service de météo et affiche sur la WebApp le tiroir à ouvrir.
 
+### GANTT
+
+![Gantt](https://github.com/CamilleLeRoux/BLX2000/blob/master/GANTT.png)
+
 ### Membres du projet
 - Alexandre HOWARD
 - Camille LE ROUX
