@@ -19,6 +19,10 @@
 
 ![Gantt](https://github.com/CamilleLeRoux/BLX2000/blob/master/GANTT.png)
 
+### Architecture Matérielle
+
+![Architecture Matérielle](https://github.com/CamilleLeRoux/BLX2000/blob/master/Dessin.png)
+
 ### Membres du projet
 - Alexandre HOWARD
 - Camille LE ROUX
