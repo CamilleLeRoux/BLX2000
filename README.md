@@ -23,6 +23,12 @@
 
 ![Architecture Matérielle](https://github.com/CamilleLeRoux/BLX2000/blob/master/Dessin.png)
 
+### Architecture Embarquée
+
+![Architecture Matérielle Embarquée](https://github.com/CamilleLeRoux/BLX2000/blob/master/archi_materielle_embarque.jpg)
+
+![Architecture Logicielle Embarquée](https://github.com/CamilleLeRoux/BLX2000/blob/master/archi_log_embarque.jpg)
+
 ### Membres du projet
 - Alexandre HOWARD
 - Camille LE ROUX
