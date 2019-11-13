@@ -60,6 +60,7 @@ JC et CL prévoient à la dernière minute de partir en balade, cela n'est pas p
 ![Architecture Logicielle Embarquée](https://github.com/CamilleLeRoux/BLX2000/blob/master/archi_log_embarque.jpg)
 
 ### Membres du projet
+
 - Alexandre HOWARD
 - Camille LE ROUX
 - Quentin MOREAU
